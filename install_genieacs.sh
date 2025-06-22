@@ -2,7 +2,7 @@
 
 # ============================================
 # AUTO INSTALL GENIEACS di Ubuntu 20.04
-# By ChatGPT | Versi 2025
+# By Bocah-Ganteng | Versi 2025
 # ============================================
 
 set -e
