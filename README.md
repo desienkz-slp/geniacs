@@ -1,4 +1,5 @@
-error ping
-
-" setcap cap_net_raw+ep /bin/ping "
+ERROR ping
+```html
+setcap cap_net_raw+ep /bin/ping
+```
 
